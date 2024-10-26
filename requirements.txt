@@ -1,0 +1,11 @@
+nbmanips
+PyMuPDF
+kaggle
+tensorflow
+networkx
+matplotlib
+numpy
+streamlit
+pillow
+pytesseract
+pyngrok
